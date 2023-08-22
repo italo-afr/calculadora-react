@@ -1,0 +1,12 @@
+.botao-set {
+    width: 3em;
+    height: 3em;
+    font-size: 2em;
+    border-radius: 3em;
+    border: none;
+    margin: 0.3em;
+}
+
+.botao-set:hover {
+    cursor: pointer;
+}
