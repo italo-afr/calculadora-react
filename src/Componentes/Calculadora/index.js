@@ -52,6 +52,7 @@ const Calculadora = () => {
         }
     }
 
+    // Escopo da calculadora
 
     return (
         <div>
